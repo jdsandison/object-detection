@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+from ultralytics import YOLO
 
 # load models
 
