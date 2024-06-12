@@ -19,4 +19,4 @@ import os
 
 # print results
 
-path = os.environ.get('MY_PATH')
+#path = os.environ.get('MY_PATH')
