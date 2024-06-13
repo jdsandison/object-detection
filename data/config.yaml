@@ -1,0 +1,6 @@
+path: C:/Users/Jack/Desktop/Projects/object-detection/data
+train: C:/Users/Jack/Desktop/Projects/object-detection/data/train/images
+val: C:/Users/Jack/Desktop/Projects/object-detection/data/valid/images
+
+names:
+  0: licence
